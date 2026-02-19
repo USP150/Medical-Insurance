@@ -1,5 +1,4 @@
 *.venv
 *._pycache_/
-*.pyc
 *.vscode/
 *.github/workflows/

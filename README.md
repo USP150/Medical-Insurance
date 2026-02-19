@@ -17,3 +17,6 @@ Trained a K-Nearest Neighbors (KNN) regression model, experimenting with differe
 
 6) Model Evaluation: 
 Evaluated model performance using metrics like R2_Score & Adjusted R2 Score on both training and testing data. Fine-tuned parameters to balance accuracy and generalization. and I get accuracy R2_score of 0.83 for n_neighbors=6 from Testing Side.
+
+
+#### added new line
